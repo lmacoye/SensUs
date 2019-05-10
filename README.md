@@ -1,2 +1,2 @@
 # SensUs
-KU Leuven SensUs Team Software
+KU Leuven SensUs Team 2019 Software
